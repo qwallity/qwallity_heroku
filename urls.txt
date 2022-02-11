@@ -12,4 +12,3 @@ Deploy to Heroku Server
 https://www.youtube.com/watch?v=tHOaWq8Nio4
 
 API 123
-https://rahmanfadhil.com/flask-rest-api/
