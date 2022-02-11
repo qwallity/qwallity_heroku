@@ -1,0 +1,15 @@
+https://www.youtube.com/watch?v=mqhxxeeTbu0
+https://www.freecodecamp.org/news/how-to-build-a-web-application-using-flask-and-deploy-it-to-the-cloud-3551c985e492/
+https://flask.palletsprojects.com/en/1.1.x/
+https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3
+
+Flask Project - Login/Registration/Articals
+https://www.youtube.com/watch?v=zRwy8gtgJ1A
+https://www.youtube.com/watch?v=addnlzdSQs4
+https://www.youtube.com/watch?v=QEMtSUxtUDY
+
+Deploy to Heroku Server
+https://www.youtube.com/watch?v=tHOaWq8Nio4
+
+API URL
+https://rahmanfadhil.com/flask-rest-api/

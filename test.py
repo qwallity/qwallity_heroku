@@ -1,0 +1,3 @@
+dict = {'coord': {'lon': 44.5136, 'lat': 40.1811}, 'weather': [{'id': 801, 'main': 'Clouds', 'description': 'few clouds', 'icon': '02n'}], 'base': 'stations', 'main': {'temp': 265.24, 'feels_like': 265.24, 'temp_min': 265.24, 'temp_max': 265.24, 'pressure': 1018, 'humidity': 73}, 'visibility': 6000, 'wind': {'speed': 0, 'deg': 0}, 'clouds': {'all': 11}, 'dt': 1642964458, 'sys': {'type': 1, 'id': 8851, 'country': 'AM', 'sunrise': 1642911496, 'sunset': 1642946930}, 'timezone': 14400, 'id': 616052, 'name': 'Yerevan', 'cod': 200}
+print(dict['weather'][0])
+print(dict['main'])

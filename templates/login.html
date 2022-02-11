@@ -1,0 +1,38 @@
+ 
+{% extends 'layout.html' %}
+
+{% block body %}
+  <h1><small>Login</small></h1>
+  <form action="" method="POST" >
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+      
+          <div class="panel panel-default">
+            <div class="panel-body">
+              <form class="form-horizontal" method="" action="">
+      
+                <div class="form-group">
+                  <label>Username</label>
+                    <input type="text" class="form-control" name="username" style="width:334px; height:35px"  value={{request.form.username}}>
+
+                </div>
+                <label>Password</label>
+                <div class="form-group">
+                  <!-- <i toggle="#password-field" class="fa fa-fw fa-eye field-icon toggle-password"></i>>
+                  <input id="password-field" type="password" class="form-control" name="password" value={{request.form.password}}> -->
+                  <input id="password-field" type="password" name="password"  style="width:334px; height:35px" value={{request.form.password}}>
+                  <i toggle="#password-field" class="fa fa-fw fa-eye field-icon toggle-password"></i>
+                </div>
+                <button type ="submit" class ="btn btn-primary">Log in</button>
+                <br>
+                <a href="/sendmail" >Forgot Password</a>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+      </div>
+{% endblock %}
+
+
